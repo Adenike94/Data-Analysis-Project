@@ -11,7 +11,7 @@ The dataset used for this project was the World Happiness Reports from 2019 and 
 The skills gained during this project were;
 SQL: Aggregators, Group By, Case When, Where and Joins
 Excel: Max and Min and Sum
-Power BI: Dashboard Creation, transforming data
+Power BI: Dashboard Creation
 
 The tools used in this project were;
 SQL, Excel and Power BI 
